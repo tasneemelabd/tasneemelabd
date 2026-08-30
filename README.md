@@ -53,7 +53,7 @@ An end-to-end interactive Power BI report analyzing Olist's Brazilian e-commerce
 ### 📊 2. Power BI Portfolio
 A growing collection of Power BI dashboard projects covering different business scenarios and datasets.
 
-🔗 **Repository:** [PowerBI-Portfolio](https://github.com/tasneemelabd/PowerBI-Portfolio)
+🔗 **Repository:** [PowerBI-Portfolio]([https://github.com/tasneemelabd/PowerBI-Portfolio](https://github.com/tasneemelabd/PowerBI-Portfolio/tree/main/Olist-Ecommerce-Dashboard))
 
 ---
 
