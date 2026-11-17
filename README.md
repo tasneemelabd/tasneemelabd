@@ -16,9 +16,9 @@ I turn raw, messy data into dashboards and stories that people can actually act 
 ## 🧰 Skills & Tools
 
 **BI & Visualization:** Power BI (Data Modeling, DAX, Power Query) · Tableau
-**Data & Databases:** SQL · Excel (Advanced Formulas, Pivot Tables)
-**Programming:** Python (Pandas, NumPy, Web Scraping, intro ML)
-**Core Skills:** Data Cleaning & ETL, Data Visualization, Business Analysis, Dashboard Design
+**Data & Databases:** SQL · SQL Server · Excel (Advanced Formulas, Pivot Tables)
+**Programming & ETL:** Python (Pandas, NumPy) · ETL pipelines · Data Cleaning
+**Domain Knowledge:** Earned Value Management (SPI, CPI) · Primavera P6 · Business Analysis · Dashboard Design
 
 ---
 
@@ -36,7 +36,16 @@ I turn raw, messy data into dashboards and stories that people can actually act 
 
 ## 📌 Featured Projects
 
-### 🛒 1. Olist E-Commerce Dashboard — Power BI
+### 🏗️ 1. PMO Portfolio Project Analysis — Capstone
+An end-to-end BI platform that connects Primavera P6 project data to Power BI through an automated Python + SQL Server pipeline, with EVM-based dashboards (SPI, CPI, SV, CV) for portfolio, schedule, risk, and resource monitoring. I led the team and built the Power BI dashboards.
+
+**Built with:** Primavera P6 · Python · SQL Server · Power BI · DAX
+
+🔗 **Repository:** [PMO-Portfolio-Project-Analysis](https://github.com/tasneemelabd/PMO-Portfolio-Project-Analysis)
+
+---
+
+### 🛒 2. Olist E-Commerce Dashboard — Power BI
 An interactive Power BI dashboard analyzing e-commerce data from Olist, a Brazilian marketplace platform. It turns raw sales, customer, and product data into clear insights that support data-driven business decisions.
 
 **Dashboard pages:**
@@ -48,9 +57,10 @@ An interactive Power BI dashboard analyzing e-commerce data from Olist, a Brazil
 **Built with:** Power BI · DAX · Data Modeling · Data Visualization
 
 🔗 **Repository:** [Olist-Ecommerce-Dashboard](https://github.com/tasneemelabd/PowerBI-Portfolio/tree/main/Olist-Ecommerce-Dashboard)
+
 ---
 
-### 📊 2. Power BI Portfolio
+### 📊 3. Power BI Portfolio
 A growing collection of Power BI dashboard projects covering different business scenarios and datasets.
 
 🔗 **Repository:** [PowerBI-Portfolio](https://github.com/tasneemelabd/PowerBI-Portfolio)
