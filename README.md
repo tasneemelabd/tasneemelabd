@@ -36,18 +36,18 @@ I turn raw, messy data into dashboards and stories that people can actually act 
 
 ## 📌 Featured Projects
 
-### 🛒 1. Olist E-Commerce Performance Dashboard — Power BI
-An end-to-end interactive Power BI report analyzing Olist's Brazilian e-commerce operations across sales, customer experience, and product performance — built as a 5-page navigable report with a custom theme.
+### 🛒 1. Olist E-Commerce Dashboard — Power BI
+An interactive Power BI dashboard analyzing e-commerce data from Olist, a Brazilian marketplace platform. It turns raw sales, customer, and product data into clear insights that support data-driven business decisions.
 
-**Pages & Highlights:**
-- **Executive Dashboard** — high-level KPI cards, revenue trend line, category breakdown, and dynamic slicers
-- **Sales** — top categories by revenue, revenue-over-time area chart, and a decomposition tree for root-cause exploration
-- **Customer Experience** — delivery/satisfaction KPIs, geographic map of customers, and segment breakdowns
-- **Product** — price-vs-category scatter analysis and top-performing product tables
-- Custom cover page with page navigation buttons and a branded Olist theme
+**Dashboard pages:**
+- **Executive Dashboard** — total revenue, orders, products, and average review score, with monthly revenue trends and order status breakdown
+- **Sales Analysis** — sales performance by product category and geographic region (customer state/city)
+- **Customer Experience** — total vs. repeat customers and their geographic distribution across Brazil
+- **Product Performance** — items sold, average review scores, and revenue by category
+
+**Built with:** Power BI · DAX · Data Modeling · Data Visualization
 
 🔗 **Repository:** [Olist-Ecommerce-Dashboard](https://github.com/tasneemelabd/PowerBI-Portfolio/tree/main/Olist-Ecommerce-Dashboard)
-
 ---
 
 ### 📊 2. Power BI Portfolio
